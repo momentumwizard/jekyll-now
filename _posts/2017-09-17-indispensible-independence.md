@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Indispensible independence: most important quality in a decision maker?"
+title: "Indispensable independence: most important quality in a decision maker?"
 toc: true
 ---
 
