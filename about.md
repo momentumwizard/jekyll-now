@@ -10,8 +10,8 @@ What is this? This is a place where I write notes about decision making. I read 
 
 Why publish? I am an exhibitionist. Or I don't know what to write about or whatever. Okay, let me try a serious explanation. The thing is, when I started the blog, the purpose was: *" The purpose of the blog is to improve my decision making while also increasing the decision making skills of my readers."* So, yes, I kind of started with a motive of using the reciprocal rule to my own benifit, but then I decided it'd be too difficult to manage, that it'll put too many filters on my thought streams and that I won't enjoy doing it. So, there I learned the first lesson in decision making which can be stated in many ways:
 
-**Choose the simplest goal possible**
-**Choose the goal that reduces your burden but at the same time maintains good amount of profit**
++ **Choose the simplest goal possible**
++ **Choose the goal that reduces your burden but at the same time maintains good amount of profit**
 
 I may have to tune this in the future.
 
