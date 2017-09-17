@@ -18,7 +18,7 @@ Thinking about the question more deeply, Newton published his theory of how the 
 
 Chanakya the total decision maker emphasised the acquiring of knowledge of others, learning the scriptures, learning at least half a sutra a day. He said one can't afford to learn through one's own mistakes so one must learn from others mistakes.
 
-Seems like the idea that an "independent" decision maker is not very valuable. Great decision makers have emphasised the "learning" as the paramount quality when it comes to learning. As Charlie Munger says, the best decision maker is the one who "Swims with the tide"...
+Seems like the idea that an "independent" decision maker is not very valuable. Great decision makers have emphasised the "learning" as the paramount quality when it comes to decision making. As Charlie Munger says, the best decision maker is the one who "Swims with the tide"...
 
 + **Learning is the most important quality of a decision maker, not independence**
 
