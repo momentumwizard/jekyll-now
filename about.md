@@ -17,8 +17,11 @@ I may have to tune this in the future.
 
 So, starting this blog has profited me on the first day itself. I hope for more profits!
 
-I notice I still haven't addressed the "why publish?" question entirely. Again, why not? If someone reads what I write and finds some error in my thinking, then I'd profit!
-If someone finds me useful in his work and offers me work, then why not!
-If someone find my thoughts alluring and irresistible and marry me or something, great!
+I notice I still haven't addressed the "why publish?" question entirely. Again, why not? 
+
++ If someone reads what I write and finds some error in my thinking, reports it and the person is right, and I'm wrong, and I end up fixing my thinking, then profit!
++ If someone finds me useful in his work and offers me work, then why not! That's great!
++ If I end up being a more entertaining human being by virtue of my writing... why not!
++ If someone finds my thoughts alluring and irresistible and marry me or send me money, why'd I refuse?
 
 Okay, the last one was an exaggeration. What I mean to say is simple: there's no loss in publishing it. So I'm publishing it.
