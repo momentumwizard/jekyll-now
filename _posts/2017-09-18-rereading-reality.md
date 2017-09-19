@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reading reality: the prerequisite for great decisions
+title: "Reading reality: the prerequisite for great decisions"
 toc: true
 ---
 
