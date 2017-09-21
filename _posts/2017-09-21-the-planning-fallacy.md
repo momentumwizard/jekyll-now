@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The planning fallacy: why majority of plans fail
+title: "The planning fallacy: why majority of plans fail"
 toc: true
 ---
 
